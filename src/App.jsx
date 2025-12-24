@@ -12,6 +12,7 @@ const App = () => {
         <Navbar />
         <Hero />
         <Cocktails />
+        test
     </main>
   );
 };
